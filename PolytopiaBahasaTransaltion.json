@@ -322,12 +322,12 @@
   "player.abilities.literacy": "melek huruf",
   "player.abilities.glide": "meluncur",
 
-  "resource.names.fruit": "buah",
-  "resource.names.crop": "tanaman",
-  "resource.names.fish": "ikan",
-  "resource.names.whale": "ikan paus",
-  "resource.names.game": "binatang buas",
-  "resource.names.metal": "logam",
+  "resource.names.fruit": "Buah",
+  "resource.names.crop": "Tanaman",
+  "resource.names.fish": "Ikan",
+  "resource.names.whale": "Ikan Paus",
+  "resource.names.game": "Binatang Buas",
+  "resource.names.metal": "Logam",
 
   "terrain.unknown": "Tanah tidak dikenal",
   "terrain.water": "Air",
