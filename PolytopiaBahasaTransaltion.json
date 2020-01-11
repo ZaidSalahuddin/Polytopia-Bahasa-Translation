@@ -48,7 +48,7 @@
   "tribepicker.mapsize": "Ukuran Peta: {0} ubin",
   "tribepicker.gamemode": "Modus Permainan: {0}",
 
-  "gamesettings.title": "GAME SETUP",
+  "gamesettings.title": "PENYIAPAN PERMAINAN",
   "gamesettings.yourname": "Namamu",
   "gamesettings.anonymous": "Anonim",
   "gamesettings.gamename": "Nama Permainan",
@@ -112,7 +112,7 @@
   "world.intro.title": "Pemimpin Kuat!",
   "world.intro.text": "Anda telah dipilih untuk memerintah suku {0}. Jelajahi dunia dan rentangkan kerajaan Anda, tetapi waspadalah dengan suku-suku lainnya.",
   "world.intro.objective": "Tujuan: {0}",
-  "world.turn.end": "Akhir Giliran",
+  "world.turn.end": "Akhiri Giliran",
   "world.turn.end.question": "Akhiri giliranmu?",
   "world.turn.end.confirm": "Konfirmasi",
   "world.turn.next": "Giliran Berikutnya",
