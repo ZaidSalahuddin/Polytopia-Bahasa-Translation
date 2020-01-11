@@ -25,8 +25,7 @@
   "tribepicker.reset": "atur ulang pembelian",
   "tribepicker.tba": "TBA",
   "tribepicker.underconstruction": "Sedang Dibangun",
-  "tribepicker.underconstruction.description": "
-Kami masih berupaya menciptakan suku ini. Menanam buah, mengembangkan bahasa dan arsitektur. Itu butuh waktu lho. Ikuti @Midjiwan di Instagram atau Twitter dan Anda akan menjadi yang pertama tahu kapan suku baru tiba!",
+  "tribepicker.underconstruction.description": "Kami masih berupaya menciptakan suku ini. Menanam buah, mengembangkan bahasa dan arsitektur. Itu butuh waktu lho. Ikuti @Midjiwan di Instagram atau Twitter dan Anda akan menjadi yang pertama tahu kapan suku baru tiba!",
   "tribepicker.freetribe": "Suku Gratis",
   "tribepicker.freetribe.description": "Suku ini tersedia secara gratis dan tidak dapat dibeli untuk mengaktifkan multiplayer online.",
   "tribepicker.taken": "Terambil",
@@ -492,7 +491,7 @@ Kami masih berupaya menciptakan suku ini. Menanam buah, mengembangkan bahasa dan
   "wcontroller.examine.population.title": "Populasi",
   "wcontroller.move.unto.unit": "TIDAK BISA PINDAH KE UNIT LAIN",
   "wcontroller.building.upgrade": "{0} Anda ditingkatkan menjadi {1}!",
-  "wcontroller.building.upgrade.reward": "{0} ditingkatkan ke level {1} ​​dan produksinya telah meningkat +1. Anda juga bisa memilih hadiah tambahan:",
+  "wcontroller.building.upgrade.reward": "{0} ditingkatkan ke level {1} dan produksinya telah meningkat +1. Anda juga bisa memilih hadiah tambahan:",
   "wcontroller.reward.workshop": "bengkel",
   "wcontroller.reward.citywall": "tembok kota",
   "wcontroller.reward.populationgrowth": "populasi bonus",
@@ -924,5 +923,5 @@ Kami masih berupaya menciptakan suku ini. Menanam buah, mengembangkan bahasa dan
   "date.minute": "menit",
   "date.minutes": "menit",
   "date.second": "detik",
-  "date.seconds": "detik",
+  "date.seconds": "detik"
 }
