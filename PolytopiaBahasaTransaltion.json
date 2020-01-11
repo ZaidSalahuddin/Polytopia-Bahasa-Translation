@@ -48,7 +48,7 @@
   "tribepicker.mapsize": "Ukuran Peta: {0} ubin",
   "tribepicker.gamemode": "Modus Permainan: {0}",
 
-  "gamesettings.title": "PENYIAPAN PERMAINAN",
+  "gamesettings.title": "GAME SETUP",
   "gamesettings.yourname": "Namamu",
   "gamesettings.anonymous": "Anonim",
   "gamesettings.gamename": "Nama Permainan",
@@ -326,7 +326,7 @@
   "resource.names.crop": "tanaman",
   "resource.names.fish": "ikan",
   "resource.names.whale": "ikan paus",
-  "resource.names.wildanimal": "binatang buas",
+  "resource.names.game": "binatang buas",
   "resource.names.metal": "logam",
 
   "terrain.unknown": "Tanah tidak dikenal",
