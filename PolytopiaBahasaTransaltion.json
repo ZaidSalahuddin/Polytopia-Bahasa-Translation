@@ -186,8 +186,7 @@
   "tribes.aimo": "Ai-Mo",
   "tribes.aimo.info": "Suku {0} yang tenang dan bijak mendiami pegunungan paling keras, paling berangin, dan tertinggi di alun-alun, tempat mereka menemukan kedamaian batin dengan bermeditasi dalam cahaya malam abadi.\n\n{0} memulai gim dengan teknologi '{1}'.",
   "tribes.aquarion": "Aquarion",
-  "tribes.aquarion.info": "Dari lautan dalam, sebuah peradaban yang telah lama hilang muncul! Isolasi mereka yang ekstrem telah memberi mereka kemampuan akuatik khusus yang tidak diketahui oleh suku manusia lainnya.\n\n{0} memiliki pohon teknologi yang sedikit berbeda dan memiliki akses ke amfibi unik. 
- penyu yang tidak bisa dilatih oleh suku lain. ",
+  "tribes.aquarion.info": "Dari lautan dalam, sebuah peradaban yang telah lama hilang muncul! Isolasi mereka yang ekstrem telah memberi mereka kemampuan akuatik khusus yang tidak diketahui oleh suku manusia lainnya.\n\n{0} memiliki pohon teknologi yang sedikit berbeda dan memiliki akses ke amfibi unik penyu yang tidak bisa dilatih oleh suku lain. ",
   "tribes.quetzali": "Quetzali",
   "tribes.quetzali.info": "Suku {0} menyembah dewa burung di tanah merah dan hidup selaras dengan simetri alami hutan rimba mereka. Mereka biasanya terlihat mengendarai burung besar yang tidak bisa terbang.\n\n{0} memulai gim dengan teknologi '{1}'.",
   "tribes.elyrion": "âˆ‘âˆ«á»¹riÈ±Å‹",
@@ -345,7 +344,7 @@
   "actionbox.unit.frozen": "Dibekukan {0}",
   "actionbox.unit.kills": "{0}/{1} terbunuh",
   "actionbox.unit.veteran": "Kawakan",
-  "actionbox.unit.new": "Latih {1} {0} baru",
+  "actionbox.unit.new": "Latih {0} {1} baru",
   "actionbox.unit.ability": "Kemampuan Unit",
   "actionbox.unit.train": "LATIH",
   "actionbox.unit.upgrade": "MENINGKATKAN",
