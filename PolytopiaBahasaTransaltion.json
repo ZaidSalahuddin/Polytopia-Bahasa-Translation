@@ -390,7 +390,7 @@
   "tooltip.unit.enemy.city": "Musuh ini merebut kota Anda!",
   "tooltip.unit.grow.now": "Akan tumbuh menjadi {0} di akhir giliran ini!",
   "tooltip.unit.grow.later": "Akan tumbuh menjadi {0} dalam {1} giliran.",
-  "tooltip.unit.decay.now": "Unit ini akan larut pada akhir putaran ini.",
+  "tooltip.unit.decay.now": "Unit ini akan larut pada akhir giliran ini.",
   "tooltip.unit.decay.later": "Unit ini akan larut dalam {0} giliran.",
   "tooltip.ability.disband": "Hapus salah satu unit Anda sendiri dan dapatkan setengah dari biaya sebagai imbalannya.",
   "tooltip.ability.destroy": "Singkirkan bangunan apa pun di dalam perbatasan Anda, bagus untuk merekonstruksi kerajaan Anda.",
